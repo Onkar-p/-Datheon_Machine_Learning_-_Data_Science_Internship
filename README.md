@@ -4,7 +4,7 @@ A collection of hands-on Machine Learning projects covering classification, regr
 
 ## Projects Overview
 
- 1. Multi-Class Benchmark Classification Pipeline (Iris / Wine)
+## 1. Multi-Class Benchmark Classification Pipeline (Iris / Wine)
 
 Objective: Build and evaluate supervised classification models using benchmark datasets such as Iris or Wine.
 
@@ -31,7 +31,7 @@ Tools: Python, Pandas, Scikit-Learn, Seaborn, Matplotlib
 
 ---
 
-2. Real Estate Housing Price Prediction (Ridge & Lasso Regression)
+##2. Real Estate Housing Price Prediction (Ridge & Lasso Regression)
 
 Objective: Predict median house values using the California Housing dataset and compare linear regression models with regularization.
 
@@ -59,7 +59,7 @@ Tools: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, GridSearchCV
 
 ---
 
- 3. NLP Sentiment Classification on Customer Reviews (TF-IDF)
+## 3. NLP Sentiment Classification on Customer Reviews (TF-IDF)
 
 Objective: Process customer or movie reviews and classify their sentiment as positive or negative using text classification.
 
